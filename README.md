@@ -7,6 +7,9 @@
 			(c) 2015 mohhingman
 
 
+Project from https://sourceforge.net/projects/sfxasm/
+The vast majority of this code is not mine, I am just cleaning it up a bit and making it compile properly
+
 Revision History
 
 1.1 11/17/2021 
