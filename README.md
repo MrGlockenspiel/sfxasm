@@ -7,8 +7,8 @@
 			(c) 2015 mohhingman
 
 
-Project from https://sourceforge.net/projects/sfxasm/
-The vast majority of this code is not mine, I am just cleaning it up a bit and making it compile properly
+Project from https://sourceforge.net/projects/sfxasm/ <br>
+The vast majority of this code is not mine, I am just cleaning it up a bit and making it compile properly <br>
 
 Revision History
 
