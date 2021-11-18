@@ -17,7 +17,7 @@ Revision History
 - Use `sprintf` instead of `itoa` (why?)
 - delete all the binaries and libs that were in the sourceforge repo (why? x2)
 - reformatted with `clang-format`
-- Compiles great with GCC, but clang gives 11 warnings I should probably fix
+- Compiles great with GCC, ~~but clang gives 11 warnings I should probably fix~~ All clang errors are fixed.
 
 1.0	03/09/2015 "First release"
 
@@ -53,6 +53,7 @@ If no errors are detected, it will produce a binary file "outputfile". eg scale.
 All instrucitons are supported. There are two addressing modes for some instructions - Register and Immediate. The instructions which support immediate mode have an alternate
 form which ends with a # suffix.  
 
+```
 adc
 adc#
 add
@@ -137,6 +138,7 @@ umult#
 with
 xor
 xor#
+```
 
 For information on the instructions, please visit the SuperFX Tutorial page.
 http://en.wikibooks.org/wiki/Super_NES_Programming/Super_FX_tutorial
